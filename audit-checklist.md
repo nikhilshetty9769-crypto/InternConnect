@@ -1,0 +1,12 @@
+## InternConnect Audit Checklist (Phase 1)
+- [ ] Navigation links valid (Profiles # is placeholder)
+- [ ] Filter chips removable individually
+- [ ] Sorting mechanism (newest, deadline, compensation)
+- [ ] Job cards consistent info hierarchy
+- [ ] Saved jobs page missing
+- [ ] Application tracking missing
+- [ ] Profile / recommendations / dashboard missing
+- [ ] Data layer interfaces for future DB
+- [ ] Empty states for filters / saved / tracking
+- [ ] Mobile responsive navigation
+- [ ] Build passes, no URL-data warning, no hydration errors

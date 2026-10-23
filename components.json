@@ -1,0 +1,21 @@
+{
+  "lib": "src/lib",
+  "globalCss": "app/globals.css",
+  "tailwind": {
+    "config": "tailwind.config.ts",
+    "css": "app/globals.css"
+  },
+  "components": [
+    {
+      "type": "ui",
+      "path": "components/ui",
+      "componentName": "ui",
+      "files": "**/*.tsx"
+    }
+  ],
+  "tsx": true,
+  "css": true,
+  "ts": true,
+  "alias": "@/*",
+  "importSuffix": ""
+}
